@@ -1,4 +1,4 @@
-FROM bitnami/spark:3.4.0-debian-11-r2
+FROM bitnami/spark:3.4.1-debian-11-r0
 
 USER root
 
